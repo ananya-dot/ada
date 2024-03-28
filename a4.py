@@ -1,4 +1,3 @@
-import math
 
 def edge_pairs_to_adjacency_list_directed(edge_pairs):
     adjacency_list = {}
